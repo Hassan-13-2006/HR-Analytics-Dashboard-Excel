@@ -4,7 +4,7 @@
 An HR Analytics Dashboard built using Microsoft Excel to analyze employee attrition and workforce trends. The project transforms HR data into meaningful insights using KPI cards, PivotTables, formulas, and charts.
 
 ## Dashboard Preview
-![HR Analytics Dashboard](HR_Dashboard_Screenshot.png)
+(HR_Dashboard_Screenshot.png)
 
 ## Key Performance Indicators
 - Total Employees
